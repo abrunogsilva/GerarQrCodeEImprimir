@@ -1,0 +1,12 @@
+C:\Users\bruno.silva\source\repos\GerarQrCode\GerarQrCode\bin\Release\GerarQrCode.dll
+C:\Users\bruno.silva\source\repos\GerarQrCode\GerarQrCode\bin\Release\GerarQrCode.pdb
+C:\Users\bruno.silva\source\repos\GerarQrCode\GerarQrCode\bin\Release\GerarQrCode.tlb
+C:\Users\bruno.silva\source\repos\GerarQrCode\GerarQrCode\bin\Release\zxing.dll
+C:\Users\bruno.silva\source\repos\GerarQrCode\GerarQrCode\bin\Release\zxing.presentation.dll
+C:\Users\bruno.silva\source\repos\GerarQrCode\GerarQrCode\bin\Release\zxing.xml
+C:\Users\bruno.silva\source\repos\GerarQrCode\GerarQrCode\bin\Release\zxing.presentation.xml
+C:\Users\bruno.silva\source\repos\GerarQrCode\GerarQrCode\obj\Release\GerarQrCode.csproj.AssemblyReference.cache
+C:\Users\bruno.silva\source\repos\GerarQrCode\GerarQrCode\obj\Release\GerarQrCode.csproj.CoreCompileInputs.cache
+C:\Users\bruno.silva\source\repos\GerarQrCode\GerarQrCode\obj\Release\GerarQrCode.csproj.CopyComplete
+C:\Users\bruno.silva\source\repos\GerarQrCode\GerarQrCode\obj\Release\GerarQrCode.dll
+C:\Users\bruno.silva\source\repos\GerarQrCode\GerarQrCode\obj\Release\GerarQrCode.pdb
