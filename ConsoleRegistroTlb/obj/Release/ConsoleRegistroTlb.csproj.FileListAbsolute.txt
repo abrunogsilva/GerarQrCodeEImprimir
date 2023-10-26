@@ -1,0 +1,13 @@
+C:\Users\bruno.silva\source\repos\GerarQrCode\ConsoleRegistroTlb\bin\Release\ConsoleRegistroTlb.exe.config
+C:\Users\bruno.silva\source\repos\GerarQrCode\ConsoleRegistroTlb\bin\Release\ConsoleRegistroTlb.exe
+C:\Users\bruno.silva\source\repos\GerarQrCode\ConsoleRegistroTlb\bin\Release\ConsoleRegistroTlb.pdb
+C:\Users\bruno.silva\source\repos\GerarQrCode\ConsoleRegistroTlb\bin\Release\GerarQrCode.dll
+C:\Users\bruno.silva\source\repos\GerarQrCode\ConsoleRegistroTlb\bin\Release\zxing.dll
+C:\Users\bruno.silva\source\repos\GerarQrCode\ConsoleRegistroTlb\bin\Release\GerarQrCode.pdb
+C:\Users\bruno.silva\source\repos\GerarQrCode\ConsoleRegistroTlb\bin\Release\zxing.xml
+C:\Users\bruno.silva\source\repos\GerarQrCode\ConsoleRegistroTlb\obj\Release\ConsoleRegistroTlb.csproj.AssemblyReference.cache
+C:\Users\bruno.silva\source\repos\GerarQrCode\ConsoleRegistroTlb\obj\Release\ConsoleRegistroTlb.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruno.silva\source\repos\GerarQrCode\ConsoleRegistroTlb\obj\Release\ConsoleRegistroTlb.csproj.CoreCompileInputs.cache
+C:\Users\bruno.silva\source\repos\GerarQrCode\ConsoleRegistroTlb\obj\Release\ConsoleRegistroTlb.csproj.CopyComplete
+C:\Users\bruno.silva\source\repos\GerarQrCode\ConsoleRegistroTlb\obj\Release\ConsoleRegistroTlb.exe
+C:\Users\bruno.silva\source\repos\GerarQrCode\ConsoleRegistroTlb\obj\Release\ConsoleRegistroTlb.pdb

@@ -1,0 +1,9 @@
+C:\Users\bruno.silva\source\repos\GerarQrCode\AlteracaoDeImagem\bin\Release\AlteracaoDeImagem.dll
+C:\Users\bruno.silva\source\repos\GerarQrCode\AlteracaoDeImagem\bin\Release\AlteracaoDeImagem.pdb
+C:\Users\bruno.silva\source\repos\GerarQrCode\AlteracaoDeImagem\bin\Release\Aspose.Drawing.dll
+C:\Users\bruno.silva\source\repos\GerarQrCode\AlteracaoDeImagem\bin\Release\Aspose.Drawing.xml
+C:\Users\bruno.silva\source\repos\GerarQrCode\AlteracaoDeImagem\obj\Release\AlteracaoDeImagem.csproj.AssemblyReference.cache
+C:\Users\bruno.silva\source\repos\GerarQrCode\AlteracaoDeImagem\obj\Release\AlteracaoDeImagem.csproj.CoreCompileInputs.cache
+C:\Users\bruno.silva\source\repos\GerarQrCode\AlteracaoDeImagem\obj\Release\AlteracaoDeImagem.csproj.CopyComplete
+C:\Users\bruno.silva\source\repos\GerarQrCode\AlteracaoDeImagem\obj\Release\AlteracaoDeImagem.dll
+C:\Users\bruno.silva\source\repos\GerarQrCode\AlteracaoDeImagem\obj\Release\AlteracaoDeImagem.pdb
